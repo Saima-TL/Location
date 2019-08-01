@@ -1,4 +1,8 @@
-[
+
+{
+   "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "Owner_details": [
   {
     "TripID" : "3",
     "Loadlocation" : "মিরপুর ১" ,
@@ -138,3 +142,4 @@
     "Rating" : "৯৭%"
   }
 ]
+}
