@@ -1,0 +1,41 @@
+[
+  {
+    "TripID" : "1",
+    "Loadlocation" : "কচুক্ষেত" ,
+    "LoadlocationSecond" : "কাফরুল, ঢাকা সিটি",
+    "SecondLoadlocation" : "মিরপুর ২, মিরপুর, ঢাকা সিটি",
+    "ThirdLoadlocation" : "মিরপুর ১১, মিরপুর, ঢাকা সিটি",
+    "Unloadlocation" : "নিউ মার্কেট",
+    "UnloadlocationSecond" : "সাভার, ঢাকা সিটি",
+    "Details" : "রড, ফার্নিচার, আরও অনেক কিছু যাবে, রড, ফার্নিচার, আরও অনেক কিছু যাবে রড, ফার্নিচার",
+    "Truckneeded" : "১ টন ৭ ফিট খোলা",
+    "Name" : "সানজানা ফ্রেয়া",
+    "CompanyName" : "আমান উদ্দিন স্টিল মিলস",
+    "MobileNumber" : "963936238964",
+    "Address" : "H: 30, 419/A, Near Aman Ali Mosjid ",
+    "Price" : "১২০০",
+    "Rating" : "৯০%",
+    "Accepted" : "0",
+    "Price" : "১০০০"
+  },
+
+  {
+    "TripID" : "2",
+    "Loadlocation" : "মিরপুর ১২" ,
+    "LoadlocationSecond" : "মিরপুর ১৩, ঢাকা সিটি",
+    "SecondLoadlocation" : "মিরপুর ১০, মিরপুর, ঢাকা সিটি",
+    "ThirdLoadlocation" : "মিরপুর ১, মিরপুর, ঢাকা সিটি",
+    "Unloadlocation" : "ধানমন্ডি ৩২",
+    "UnloadlocationSecond" : "ধানমন্ডি, ঢাকা সিটি",
+    "Details" : "সবজি,মাছ,তরকারী,আলু, পেঁয়াজ, আরো বাজার সদাই ",
+    "Truckneeded" : "১ টন ৭ ফিট খোলা",
+    "Name" : "শোয়াইব মাহমুদ",
+    "CompanyName" : "শোয়াইব উদ্দিন স্টিল মিলস",
+    "MobileNumber" : "1249345364",
+    "Address" : "H: 20, 429/D, Gulshan ",
+    "Price" : "১৮০০",
+    "Rating" : "৯৫%",
+    "Accepted" : "0",
+    "Price" : "১২০০"
+  }
+]
