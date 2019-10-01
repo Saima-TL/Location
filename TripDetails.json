@@ -1,6 +1,8 @@
 [
   {
     "TripID" : "3",
+    "TripType" : "express",
+    "TripStatus" : "ACTIVE",
     "Loadlocation" : "মিরপুর ১" ,
     "LoadlocationSecond" : "মিরপুর, ঢাকা সিটি",
     "SecondLoadlocation" : "মিরপুর ২, মিরপুর, ঢাকা সিটি",
@@ -19,6 +21,8 @@
 
   {
     "TripID" : "4",
+    "TripType" : "express",
+    "TripStatus" : "FINISHED",
     "Loadlocation" : "মিরপুর ২" ,
     "LoadlocationSecond" : "মিরপুর, ঢাকা সিটি",
     "SecondLoadlocation" : "মিরপুর ১৩, মিরপুর, ঢাকা সিটি",
@@ -36,6 +40,8 @@
   },
   {
     "TripID" : "5",
+    "TripType" : "bidding",
+    "TripStatus" : "CANCELLED",
     "Loadlocation" : "মিরপুর ১৩" ,
     "LoadlocationSecond" : "মিরপুর, ঢাকা সিটি",
     "SecondLoadlocation" : "মিরপুর ১, মিরপুর, ঢাকা সিটি",
@@ -53,6 +59,8 @@
   },
   {
     "TripID" : "6",
+    "TripType" : "bidding",
+    "TripStatus" : "BID ONGOING",
     "Loadlocation" : "মিরপুর ১২" ,
     "LoadlocationSecond" : "মিরপুর, ঢাকা সিটি",
     "SecondLoadlocation" : "মিরপুর ১৩, মিরপুর, ঢাকা সিটি",
@@ -71,6 +79,8 @@
   },
   {
     "TripID" : "7",
+    "TripType" : "bidding",
+    "TripStatus" : "BID ONGOING",
     "Loadlocation" : "মিরপুর ২" ,
     "LoadlocationSecond" : "মিরপুর, ঢাকা সিটি",
     "SecondLoadlocation" : "মিরপুর ১৩, মিরপুর, ঢাকা সিটি",
@@ -88,6 +98,8 @@
   },
   {
     "TripID" : "8",
+    "TripType" : "bidding",
+    "TripStatus" : "BID ONGOING",
     "Loadlocation" : "মিরপুর ১০" ,
     "LoadlocationSecond" : "মিরপুর, ঢাকা সিটি",
     "SecondLoadlocation" : "মিরপুর ৬, মিরপুর, ঢাকা সিটি",
@@ -105,6 +117,8 @@
   },
   {
     "TripID" : "9",
+    "TripType" : "bidding",
+    "TripStatus" : "BID ONGOING",
     "Loadlocation" : "মিরপুর ১২" ,
     "LoadlocationSecond" : "মিরপুর, ঢাকা সিটি",
     "SecondLoadlocation" : "মিরপুর ৭, মিরপুর, ঢাকা সিটি",
@@ -122,6 +136,8 @@
   },
   {
     "TripID" : "10",
+    "TripType" : "bidding",
+    "TripStatus" : "BID ONGOING",
     "Loadlocation" : "মিরপুর ২" ,
     "LoadlocationSecond" : "মিরপুর, ঢাকা সিটি",
     "SecondLoadlocation" : "মিরপুর ১৩, মিরপুর, ঢাকা সিটি",
