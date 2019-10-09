@@ -15,6 +15,7 @@
     "CompanyName" : "ওসমান গণি স্টিল মিলস",
     "MobileNumber" : "963936238964",
     "Address" : "H: 30,419/A, Near Aman Ali Mosjid ",
+     "Date" : "2019-10-09",
     "Time" : "সকাল ৯টা",
     "Rating" : "৯৭%"
   },
@@ -35,6 +36,7 @@
     "CompanyName" : "শোয়াইব উদ্দিন স্টিল মিলস",
     "MobileNumber" : "1249345364",
     "Address" : "H: 20,429/D, Gulshan ",
+     "Date" : "2019-10-09",
     "Time" : "সকাল ৭টা",
     "Rating" : "৯৩%"
   },
@@ -54,6 +56,7 @@
     "CompanyName" : "সায়মা আক্তার ফার্নিচার দোকান",
     "MobileNumber" : "1323423364",
     "Address" : "H: 30,29/B, Mohakhali ",
+     "Date" : "2019-10-08",
     "Time" : "দুপুর ২টা",
     "Rating" : "৯০%"
   },
@@ -73,6 +76,7 @@
     "CompanyName" : "সাজ্জাদ ফার্নিচার লিমিটেড",
     "MobileNumber" : "145355364",
     "Address" : "H: 2,9/G, KawranBazar",
+     "Date" : "2019-10-07",
     "Time" : "সকাল ১০টা",
     "Rating" : "৮৯%"
     
@@ -93,6 +97,7 @@
     "CompanyName" : "যমুনা ফার্নিচার",
     "MobileNumber" : "75674575364",
     "Address" : "H: 110,4/C, Paltan",
+     "Date" : "2019-10-07",
     "Time" : "সন্ধ্যা ৭টা",
     "Rating" : "৯১%"
   },
@@ -112,6 +117,7 @@
     "CompanyName" : "মাছের আড়তের মালিক",
     "MobileNumber" : "8674745364",
     "Address" : "H: 212,4/D, Kochukhet ",
+     "Date" : "2019-10-06",
     "Time" : "রাত ৯টা",
     "Rating" : "৯৩%"
   },
@@ -131,6 +137,7 @@
     "CompanyName" : "ইমাম ফ্যাশন হাউজ",
     "MobileNumber" : "3757635754",
     "Address" : "H: 22,4/A, Kazipara ",
+     "Date" : "2019-10-06",
     "Time" : "দুপুর ৩টা",
     "Rating" : "৮৫%"
   },
@@ -150,6 +157,7 @@
     "CompanyName" : "মিনহাজ বার্গার শপ",
     "MobileNumber" : "1249345364",
     "Address" : "H: 2,34/B, Shewrapara",
+     "Date" : "2019-10-05,
     "Time" : "দুপুর ৩টা",
     "Rating" : "৯৭%"
   }
